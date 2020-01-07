@@ -3,3 +3,4 @@ right = 5
 
 table = left
 left = right
+right = table
